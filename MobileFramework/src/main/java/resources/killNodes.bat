@@ -1,0 +1,1 @@
+taskKill /F /IM node.exe
